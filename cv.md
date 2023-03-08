@@ -10,21 +10,22 @@ I'm currently unemployed as I had to make a major career change. I am responsibl
 ### Skills
 * HTML
 * CSS
-* JavaScript basics ( data types, operators, loops, functions, etc. ) 
+* JavaScript basics (data types, operators, loops, functions, etc.) 
 ### Code examples
-```
+
+```javascript
 function arrayDiff(a, b) {
    return res = a.filter (item => {
     return !b.includes(item)
    });
-   
 }
 ```
+
 ### Experience
 * My CV - [my CV](https://github.com/hannamalyhina/rsschool-cv)
 
 ### Education
 * Vitebsk State Medical University 
-* Self-study/Courses ( [udemy.com](https://www.udemy.com/) , [code.mu](https://code.mu/) )
+* Self-study/Courses ([udemy.com](https://www.udemy.com/) , [code.mu](https://code.mu/))
 ### English
 A2/B1
